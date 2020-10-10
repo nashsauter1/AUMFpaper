@@ -1,5 +1,5 @@
 ---
-title: "Impacts of AUMF Resolutions on Obama and Trump Administration Foreign Policy"
+title: "Impacts of the AUMF Resolutions on Obama and Trump Administration Foreign Policy"
 author: Nash Sauter
 date: \today
 bibliography: aumf.bib
@@ -10,12 +10,17 @@ fontsize: 12pt
 geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
 toc: false
 number_sections: true
+indent: true
+header-includes:
+  - \usepackage{setspace}
+  - \usepackage{indentfirst}
+  - \usepackage{CormorantGaramond}
+  - \doublespacing
 ---
 
 # Introduction
 Writing text test testing [@bradley2016].
-More testing testing text [@ingber2016].
 
 \newpage
 \pagenumbering{gobble}
-# References #
+# References

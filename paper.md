@@ -1,7 +1,7 @@
 ---
 title: "Impacts of the AUMF Resolutions on Obama and Trump Administration Foreign Policy"
 author: Nash Sauter
-date: \today
+date: December 2020
 bibliography: aumf.bib
 csl: chicago-author-date.csl
 link-citations: true
@@ -15,11 +15,13 @@ header-includes:
   - \usepackage{setspace}
   - \usepackage{indentfirst}
   - \usepackage{CormorantGaramond}
+  - \usepackage{hyperref}
   - \doublespacing
 ---
 
 # Introduction
 Writing text test testing [@bradley2016].
+Second line [@pearlstein2011] this is true.
 
 \newpage
 \pagenumbering{gobble}

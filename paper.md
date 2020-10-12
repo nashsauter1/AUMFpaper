@@ -5,19 +5,33 @@ date: Fall Semester, POLS 1600
 bibliography: aumf.bib
 csl: chicago-fullnote-bibliography.csl
 link-citations: true
+reference-section-title: "Bibliography"
 documentclass: article
 fontsize: 12pt
 geometry: "left=1in,right=1in,top=1in,bottom=1in"
 toc: false
-numbersections: true
+numbersections: false
 indent: true
 header-includes:
   - \usepackage{setspace}
-  - \usepackage{indentfirst}
   - \usepackage{CormorantGaramond}
   - \usepackage{hyperref}
+  - \usepackage{indentfirst}
+  - \usepackage{ragged2e}
+  - \usepackage{fancyhdr}
+  - \usepackage{lastpage}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \rhead{Sauter \thepage}
+  - \renewcommand{\headrulewidth}{0pt}
   - \doublespacing
+  - \setlength\RaggedRightParindent{0.5in}
+  - \addtolength{\skip\footins}{2pc plus 5pt}
+  - \RaggedRight
 ---
+\pagenumbering{gobble}
+\newpage
+\pagenumbering{arabic}
 
 # Introduction
 In the days following the terrorist attacks against the United States on September 11th, 2001, both houses of Congress took to action and passed a bipartisan resolution titled S.J.Res.23: Authorization for Use of Military Force.
@@ -44,5 +58,3 @@ The book looks at how these irreversible choices affected the foreign policy app
 Although this book covers a much wider range of topics than the AUMF, it provides many historical accounts and political theories that will be instrumental in the understanding of the subject.
 
 \newpage
-\pagenumbering{gobble}
-# References

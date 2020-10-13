@@ -48,13 +48,36 @@ Although this paper will put the most focus into the 2001 AUMF, the 1991 AUMF an
 Next, this paper will describe some of the various legal interpretations of the AUMF resolutions in order to set a framework to look at the executive action through.
 Then, this paper will look their uses under the Obama Administration as well as the various precedents set by those actions.
 Finally, it will examine the ways they've been used under the present-day Trump Administration in order to see if their uses have changed or stayed consistent with the Obama Administration precedents.
+The Obama Administration section will most likely take up the bulk on the analysis as it will have the most room for interpretation, and the literature regarding Trump Administration AUMF is much more limited.
 
-## Research Process and Primary References
-The most important source for this research paper will be the book *Counter-terrorism From the Obama Administration to President Trump: Caught in the Fait Accompli War* by Donna G Starr-Deelen.
+## Research Process
+Throughout this paper, there will be references to a variety of academic articles, one book, and possibly a few online resources for quotes, dates, and other facts that don't come with any analysis.
+I have designated four of these sources to be my major sources, meaning that they will be referenced the most throughout this paper compared to any of the other sources present.
+There are two main criteria that I chose in order to determine which sources I would be giving the most weight to.
+First, they are the most relevant pieces of literature I could find for the subject that this paper is addressing.
+They all deal directly with the AUMF resolutions and provide many frameworks, historical accounts, arguments, and analyses that will help with answering the research question of this paper.
+Second, they address a wide range of topics within the research subject.
+While they all deal with similar questions, some of them focus more on the legal interpretations, some focus on the institutional process that led to those interpretations, and others look at the direct, practical impacts of the resolutions.
+They also cover time periods all the way from the beginning of the formation of the resolutions to the end of the Obama Administration and beginning of the Trump Administration.
+
+### Major References
+The most important source for this research paper will be the book *Counter-Terrorism from the Obama Administration to President Trump: Caught in the Fait Accompli War* by Donna G Starr-Deelen.
 Starr-Deelen has taught Public International Law and Human Rights Law and has written several books regarding the evolving nature and role of terrorism across many presidential administrations.
 This book primarily focuses on the *fait accompli* war left behind by George W. Bush, meaning a war that was decided on before those affect can hear about it.
 This *fait accompli* was less on the grounds of the actual forces and conflicts of the war, but instead was the ideological war on terror caused by the "virtually irreversible policy choices President Bush made regarding the use of force and targeting, detention, and interrogation methods."[@starr-deelen2018, pp. 2]
 The book looks at how these irreversible choices affected the foreign policy approaches of the Obama Administration as well as the first few months of the Trump Administration.
-Although this book covers a much wider range of topics than the AUMF, it provides many historical accounts and political theories that will be instrumental in the understanding of the subject.
+Although this book covers a much wider range of topics than just the impacts of the AUMF resolutions, it provides many historical accounts and political theories that will be instrumental in the analysis of the subject that will be present throughout this paper.
+
+Another source that will be important for this research paper is *2001 Authorization for Use of Military Force: Issues Concerning Its Continued Application* by Matthew C. Weed, a nonpartisan specialist in foreign policy legislation for the Congressional Research Service [@weed2015].
+This paper covers the initial legislative background behind the 2001 AUMF, and also has a lot of information about the specific policies enacted under the Obama Administration that were legally justified using the AUMF resolutions, and the differences between what President Obama has said about the AUMF resolutions from the actions he took.
+This will be a very useful account in order to understand what events have actually happened before going into any analysis on the subject.
+Additionally, it also discusses the impact that the AUMF resolutions have in combination with each other and the potential courses of action that Congress can take in the future.
+
+The next major source that will be used in this paper is *The Contemporary Presidency: Stretching the 2001 AUMF: A History of Two Presidencies* by Shoon Kathleen Murray, a PhD political scientist that focuses on foreign policy and has done a variety of works on the AUMF resolutions [@murray2015].
+This source deals with both the Bush and Obama presidencies, but will mostly be used for the section of this paper about historical background.
+The article has a good amount of analysis looking at quotes and personal accounts of the legislators that were involved with the drafting, negotiation, and passage of the AUMF as well as similar accounts for the Bush Administration lawyers.
+These are used to create detailed accounts of the intentions of both Congress and the Bush Administration.
+Finally, the source *Obama's AUMF Legacy* by Curtis A. Bradley and Jack Landman Goldsmith, researchers for the Duke University of Law and Harvard Law respectively, will be used to bring the Obama Administration AUMF interpretation to a more international scale [@bradley2016].
+The paper looks at the impacts through the events regarding Guantanamo Bay as well as the relation of the AUMF resolutions to international law.
 
 \newpage

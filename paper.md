@@ -10,7 +10,8 @@ documentclass: article
 fontsize: 12pt
 geometry: "left=1in,right=1in,top=1in,bottom=1in"
 toc: false
-numbersections: false
+toc-depth: 2
+numbersections: true
 indent: true
 header-includes:
   - \usepackage{setspace}
@@ -20,12 +21,14 @@ header-includes:
   - \usepackage{ragged2e}
   - \usepackage{fancyhdr}
   - \usepackage{lastpage}
+  - \usepackage{microtype}
   - \pagestyle{fancy}
   - \fancyhf{}
   - \rhead{Sauter \thepage}
   - \renewcommand{\headrulewidth}{0pt}
   - \doublespacing
   - \setlength\RaggedRightParindent{0.5in}
+  - \setlength{\RaggedRightRightskip}{0pt plus 2.8em}
   - \addtolength{\skip\footins}{2pc plus 5pt}
   - \RaggedRight
 ---
@@ -34,6 +37,8 @@ header-includes:
 \pagenumbering{arabic}
 
 # Introduction
+
+## Background
 In the days following the terrorist attacks against the United States on September 11th, 2001, both houses of Congress took to action and passed a bipartisan resolution titled S.J.Res.23: Authorization for Use of Military Force.
 As this joint resolution was created to address an urgent problem, being the national security of the United States, the resolution was passed through both chambers of Congress on September 14th and signed into law by President George W. Bush only four days later the 18th.
 Although the speed at which both parties came together to take action was a monumental achievement, this short time frame led to the resolution giving the President of the United States a broad set of war powers instead of any specifically defined actions.

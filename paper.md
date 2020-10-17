@@ -11,7 +11,7 @@ fontsize: 12pt
 geometry: "left=1in,right=1in,top=1in,bottom=1in"
 toc: false
 toc-depth: 2
-numbersections: true
+numbersections: false
 indent: true
 header-includes:
   - \usepackage{setspace}
@@ -65,7 +65,6 @@ Second, they address a wide range of topics within the research subject.
 While they all deal with similar questions, some of them focus more on the legal interpretations, some focus on the institutional process that led to those interpretations, and others look at the direct, practical impacts of the resolutions.
 They also cover time periods all the way from the beginning of the formation of the resolutions to the end of the Obama Administration and beginning of the Trump Administration.
 
-### Major References
 The most important source for this research paper will be the book *Counter-Terrorism from the Obama Administration to President Trump: Caught in the Fait Accompli War* by @starr-deelen2018.
 Starr-Deelen has taught Public International Law and Human Rights Law and has written several books regarding the evolving nature and role of terrorism across many presidential administrations.
 This book primarily focuses on the *fait accompli* war left behind by George W. Bush, meaning a war that was decided on before those affect can hear about it.

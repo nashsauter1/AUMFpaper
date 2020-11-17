@@ -92,6 +92,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty

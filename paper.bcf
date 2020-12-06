@@ -69,7 +69,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -174,11 +174,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minyear</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minfull</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -194,7 +194,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquework</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
@@ -306,7 +306,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -387,11 +387,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minyear</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minfull</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -407,7 +407,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquework</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
@@ -519,7 +519,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -600,11 +600,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minyear</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minfull</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -620,7 +620,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquework</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
@@ -732,7 +732,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -813,11 +813,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minyear</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>false</bcf:value>
+      <bcf:value>minfull</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -833,7 +833,855 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquework</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useprefix</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useafterword</bcf:key>
       <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useannotator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usebookauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usecommentator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditora</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorc</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useforeword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useholder</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useintroduction</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamea</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenameb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamec</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usetranslator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshortauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshorteditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+  </bcf:options>
+  <!-- music -->
+  <bcf:options component="biblatex" type="music">
+    <bcf:option type="singlevalued">
+      <bcf:key>labelalpha</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labelnamespec</bcf:key>
+      <bcf:value order="1">shortauthor</bcf:value>
+      <bcf:value order="2">author</bcf:value>
+      <bcf:value order="3">shorteditor</bcf:value>
+      <bcf:value order="4">namea</bcf:value>
+      <bcf:value order="5">editor</bcf:value>
+      <bcf:value order="6">nameb</bcf:value>
+      <bcf:value order="7">translator</bcf:value>
+      <bcf:value order="8">namec</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeltitlespec</bcf:key>
+      <bcf:value order="1">shorttitle</bcf:value>
+      <bcf:value order="2">title</bcf:value>
+      <bcf:value order="3">maintitle</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitleyear</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeldateparts</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeldatespec</bcf:key>
+      <bcf:value order="1" type="field">eventdate</bcf:value>
+      <bcf:value order="2" type="field">origdate</bcf:value>
+      <bcf:value order="3" type="field">date</bcf:value>
+      <bcf:value order="4" type="field">year</bcf:value>
+      <bcf:value order="5" type="field">urldate</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxalphanames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxbibnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxcitenames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxsortnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxitems</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minalphanames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minbibnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>mincitenames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minsortnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minitems</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nohashothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>noroman</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nosortothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>singletitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbib</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skiplab</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbiblist</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquelist</bcf:key>
+      <bcf:value>minyear</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquename</bcf:key>
+      <bcf:value>minfull</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniqueprimaryauthor</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquetitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquebaretitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquework</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useprefix</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useafterword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useannotator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usebookauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usecommentator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditora</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorc</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useforeword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useholder</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useintroduction</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamea</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenameb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamec</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usetranslator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshortauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshorteditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+  </bcf:options>
+  <!-- review -->
+  <bcf:options component="biblatex" type="review">
+    <bcf:option type="singlevalued">
+      <bcf:key>labelalpha</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labelnamespec</bcf:key>
+      <bcf:value order="1">shortauthor</bcf:value>
+      <bcf:value order="2">author</bcf:value>
+      <bcf:value order="3">shorteditor</bcf:value>
+      <bcf:value order="4">namea</bcf:value>
+      <bcf:value order="5">editor</bcf:value>
+      <bcf:value order="6">nameb</bcf:value>
+      <bcf:value order="7">translator</bcf:value>
+      <bcf:value order="8">namec</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeltitlespec</bcf:key>
+      <bcf:value order="1">shorttitle</bcf:value>
+      <bcf:value order="2">title</bcf:value>
+      <bcf:value order="3">maintitle</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitleyear</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeldateparts</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeldatespec</bcf:key>
+      <bcf:value order="1" type="field">eventdate</bcf:value>
+      <bcf:value order="2" type="field">origdate</bcf:value>
+      <bcf:value order="3" type="field">date</bcf:value>
+      <bcf:value order="4" type="field">year</bcf:value>
+      <bcf:value order="5" type="field">urldate</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxalphanames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxbibnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxcitenames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxsortnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxitems</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minalphanames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minbibnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>mincitenames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minsortnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minitems</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nohashothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>noroman</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nosortothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>singletitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbib</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skiplab</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbiblist</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquelist</bcf:key>
+      <bcf:value>minyear</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquename</bcf:key>
+      <bcf:value>minfull</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniqueprimaryauthor</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquetitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquebaretitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquework</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useprefix</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useafterword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useannotator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usebookauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usecommentator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditora</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorc</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useforeword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useholder</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useintroduction</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamea</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenameb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamec</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usetranslator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshortauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshorteditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+  </bcf:options>
+  <!-- suppperiodical -->
+  <bcf:options component="biblatex" type="suppperiodical">
+    <bcf:option type="singlevalued">
+      <bcf:key>labelalpha</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labelnamespec</bcf:key>
+      <bcf:value order="1">shortauthor</bcf:value>
+      <bcf:value order="2">author</bcf:value>
+      <bcf:value order="3">shorteditor</bcf:value>
+      <bcf:value order="4">namea</bcf:value>
+      <bcf:value order="5">editor</bcf:value>
+      <bcf:value order="6">nameb</bcf:value>
+      <bcf:value order="7">translator</bcf:value>
+      <bcf:value order="8">namec</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeltitlespec</bcf:key>
+      <bcf:value order="1">shorttitle</bcf:value>
+      <bcf:value order="2">title</bcf:value>
+      <bcf:value order="3">maintitle</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitleyear</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeldateparts</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeldatespec</bcf:key>
+      <bcf:value order="1" type="field">eventdate</bcf:value>
+      <bcf:value order="2" type="field">origdate</bcf:value>
+      <bcf:value order="3" type="field">date</bcf:value>
+      <bcf:value order="4" type="field">year</bcf:value>
+      <bcf:value order="5" type="field">urldate</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxalphanames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxbibnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxcitenames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxsortnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxitems</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minalphanames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minbibnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>mincitenames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minsortnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minitems</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nohashothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>noroman</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nosortothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>singletitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbib</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skiplab</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbiblist</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquelist</bcf:key>
+      <bcf:value>minyear</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquename</bcf:key>
+      <bcf:value>minfull</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniqueprimaryauthor</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquetitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquebaretitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquework</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useprefix</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useafterword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useannotator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usebookauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usecommentator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditora</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useeditorc</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useforeword</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useholder</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useintroduction</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamea</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenameb</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usenamec</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>usetranslator</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshortauthor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>useshorteditor</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+  </bcf:options>
+  <!-- video -->
+  <bcf:options component="biblatex" type="video">
+    <bcf:option type="singlevalued">
+      <bcf:key>labelalpha</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labelnamespec</bcf:key>
+      <bcf:value order="1">shortauthor</bcf:value>
+      <bcf:value order="2">author</bcf:value>
+      <bcf:value order="3">shorteditor</bcf:value>
+      <bcf:value order="4">namea</bcf:value>
+      <bcf:value order="5">editor</bcf:value>
+      <bcf:value order="6">nameb</bcf:value>
+      <bcf:value order="7">translator</bcf:value>
+      <bcf:value order="8">namec</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeltitlespec</bcf:key>
+      <bcf:value order="1">shorttitle</bcf:value>
+      <bcf:value order="2">title</bcf:value>
+      <bcf:value order="3">maintitle</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeltitleyear</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>labeldateparts</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="multivalued">
+      <bcf:key>labeldatespec</bcf:key>
+      <bcf:value order="1" type="field">eventdate</bcf:value>
+      <bcf:value order="2" type="field">origdate</bcf:value>
+      <bcf:value order="3" type="field">date</bcf:value>
+      <bcf:value order="4" type="field">year</bcf:value>
+      <bcf:value order="5" type="field">urldate</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxalphanames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxbibnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxcitenames</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxsortnames</bcf:key>
+      <bcf:value>10</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>maxitems</bcf:key>
+      <bcf:value>3</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minalphanames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minbibnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>mincitenames</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minsortnames</bcf:key>
+      <bcf:value>7</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>minitems</bcf:key>
+      <bcf:value>1</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nohashothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>noroman</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>nosortothers</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>singletitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbib</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skiplab</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>skipbiblist</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquelist</bcf:key>
+      <bcf:value>minyear</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquename</bcf:key>
+      <bcf:value>minfull</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniqueprimaryauthor</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquetitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquebaretitle</bcf:key>
+      <bcf:value>0</bcf:value>
+    </bcf:option>
+    <bcf:option type="singlevalued">
+      <bcf:key>uniquework</bcf:key>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
@@ -975,13 +1823,8 @@
     <bcf:option datatype="string">backrefstyle</bcf:option>
     <bcf:option datatype="string">arxiv</bcf:option>
     <bcf:option datatype="string">journalabbrev</bcf:option>
-    <bcf:option datatype="string">related</bcf:option>
-    <bcf:option datatype="string">shortextrafield</bcf:option>
-    <bcf:option datatype="string">shortextraformat</bcf:option>
-    <bcf:option datatype="string">shortextrapunct</bcf:option>
     <bcf:option datatype="string">ptitleaddon</bcf:option>
     <bcf:option datatype="string">ctitleaddon</bcf:option>
-    <bcf:option datatype="string">shorthandpunct</bcf:option>
     <bcf:option datatype="boolean">familyinits</bcf:option>
     <bcf:option datatype="boolean">giveninits</bcf:option>
     <bcf:option datatype="boolean">prefixinits</bcf:option>
@@ -1057,28 +1900,29 @@
     <bcf:option datatype="boolean">sortfirstinits</bcf:option>
     <bcf:option datatype="boolean">sortgiveninits</bcf:option>
     <bcf:option datatype="boolean">labelyear</bcf:option>
+    <bcf:option datatype="boolean">avdate</bcf:option>
+    <bcf:option datatype="boolean">cmsdate</bcf:option>
+    <bcf:option datatype="boolean">cmsorigdate</bcf:option>
     <bcf:option datatype="boolean">genallnames</bcf:option>
+    <bcf:option datatype="boolean">hypertitle</bcf:option>
     <bcf:option datatype="boolean">annotation</bcf:option>
-    <bcf:option datatype="boolean">noibid</bcf:option>
     <bcf:option datatype="boolean">short</bcf:option>
+    <bcf:option datatype="boolean">noneshort</bcf:option>
     <bcf:option datatype="boolean">legalnotes</bcf:option>
     <bcf:option datatype="boolean">supranotes</bcf:option>
-    <bcf:option datatype="boolean">noneshort</bcf:option>
-    <bcf:option datatype="boolean">shorthandibid</bcf:option>
-    <bcf:option datatype="boolean">shorthandfull</bcf:option>
-    <bcf:option datatype="boolean">inheritshorthand</bcf:option>
-    <bcf:option datatype="boolean">shorthandfirst</bcf:option>
+    <bcf:option datatype="boolean">cmslos</bcf:option>
+    <bcf:option datatype="boolean">noibid</bcf:option>
     <bcf:option datatype="boolean">compresspages</bcf:option>
     <bcf:option datatype="boolean">postnotepunct</bcf:option>
     <bcf:option datatype="boolean">usecompiler</bcf:option>
+    <bcf:option datatype="boolean">nodates</bcf:option>
     <bcf:option datatype="boolean">juniorcomma</bcf:option>
-    <bcf:option datatype="boolean">delayvolume</bcf:option>
+    <bcf:option datatype="boolean">shorthandfull</bcf:option>
     <bcf:option datatype="boolean">longcrossref</bcf:option>
     <bcf:option datatype="boolean">booklongxref</bcf:option>
-    <bcf:option datatype="boolean">omitxrefdate</bcf:option>
     <bcf:option datatype="boolean">xrefurl</bcf:option>
+    <bcf:option datatype="boolean">related</bcf:option>
     <bcf:option datatype="boolean">ordinalgb</bcf:option>
-    <bcf:option datatype="boolean">urlnotes</bcf:option>
     <bcf:option datatype="boolean">isbn</bcf:option>
     <bcf:option datatype="boolean">url</bcf:option>
     <bcf:option datatype="boolean">doi</bcf:option>
@@ -1087,11 +1931,6 @@
     <bcf:option datatype="boolean">bookpages</bcf:option>
     <bcf:option datatype="boolean">includeall</bcf:option>
     <bcf:option datatype="boolean">hidevolumes</bcf:option>
-    <bcf:option datatype="boolean">addendum</bcf:option>
-    <bcf:option datatype="boolean">bookseries</bcf:option>
-    <bcf:option datatype="boolean">notefield</bcf:option>
-    <bcf:option datatype="boolean">completenotes</bcf:option>
-    <bcf:option datatype="boolean">cmsdate</bcf:option>
     <bcf:option datatype="boolean">strict</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
@@ -1122,9 +1961,6 @@
     <bcf:option datatype="string">loccittracker</bcf:option>
     <bcf:option datatype="string">uniquelist</bcf:option>
     <bcf:option datatype="string">uniquename</bcf:option>
-    <bcf:option datatype="string">shortextrafield</bcf:option>
-    <bcf:option datatype="string">shortextraformat</bcf:option>
-    <bcf:option datatype="string">shortextrapunct</bcf:option>
     <bcf:option datatype="boolean">familyinits</bcf:option>
     <bcf:option datatype="boolean">giveninits</bcf:option>
     <bcf:option datatype="boolean">prefixinits</bcf:option>
@@ -1171,7 +2007,6 @@
     <bcf:option datatype="boolean">dataonly</bcf:option>
     <bcf:option datatype="boolean">skiplos</bcf:option>
     <bcf:option datatype="boolean">labelyear</bcf:option>
-    <bcf:option datatype="boolean">noneshort</bcf:option>
     <bcf:option datatype="xml">labelalphatemplate</bcf:option>
     <bcf:option datatype="xml">translit</bcf:option>
     <bcf:option datatype="xml">sortexclusion</bcf:option>
@@ -1208,13 +2043,8 @@
     <bcf:option datatype="string">uniquelist</bcf:option>
     <bcf:option datatype="string">uniquename</bcf:option>
     <bcf:option datatype="string" backendout="1">journalabbrev</bcf:option>
-    <bcf:option datatype="string" backendout="1">related</bcf:option>
-    <bcf:option datatype="string" backendout="1">shortextrafield</bcf:option>
-    <bcf:option datatype="string" backendout="1">shortextraformat</bcf:option>
-    <bcf:option datatype="string" backendout="1">shortextrapunct</bcf:option>
     <bcf:option datatype="string" backendout="1">ptitleaddon</bcf:option>
     <bcf:option datatype="string" backendout="1">ctitleaddon</bcf:option>
-    <bcf:option datatype="string" backendout="1">shorthandpunct</bcf:option>
     <bcf:option datatype="boolean" backendout="1">familyinits</bcf:option>
     <bcf:option datatype="boolean" backendout="1">giveninits</bcf:option>
     <bcf:option datatype="boolean" backendout="1">prefixinits</bcf:option>
@@ -1260,30 +2090,25 @@
     <bcf:option datatype="boolean" backendout="1">skiplab</bcf:option>
     <bcf:option datatype="boolean" backendin="uniquename=false,uniquelist=false,skipbib=true,skipbiblist=true,skiplab=true">dataonly</bcf:option>
     <bcf:option datatype="boolean" backendout="1">skiplos</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">cmsdate</bcf:option>
     <bcf:option datatype="boolean" backendout="1">genallnames</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">supranotes</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">hypertitle</bcf:option>
     <bcf:option datatype="boolean" backendout="1">noneshort</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">shorthandfirst</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">supranotes</bcf:option>
     <bcf:option datatype="boolean" backendout="1">usecompiler</bcf:option>
     <bcf:option datatype="boolean" backendout="1">juniorcomma</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">delayvolume</bcf:option>
     <bcf:option datatype="boolean" backendout="1">longcrossref</bcf:option>
     <bcf:option datatype="boolean" backendout="1">booklongxref</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">omitxrefdate</bcf:option>
     <bcf:option datatype="boolean" backendout="1">xrefurl</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">urlnotes</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">related</bcf:option>
     <bcf:option datatype="boolean" backendout="1">isbn</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">url</bcf:option>
     <bcf:option datatype="boolean" backendout="1">doi</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">url</bcf:option>
     <bcf:option datatype="boolean" backendout="1">eprint</bcf:option>
     <bcf:option datatype="boolean" backendout="1">numbermonth</bcf:option>
     <bcf:option datatype="boolean" backendout="1">bookpages</bcf:option>
     <bcf:option datatype="boolean" backendout="1">hidevolumes</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">addendum</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">bookseries</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">notefield</bcf:option>
     <bcf:option datatype="boolean" backendout="1">switchdates</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">cmsdate</bcf:option>
     <bcf:option datatype="integer" backendin="maxcitenames,maxbibnames,maxsortnames">maxnames</bcf:option>
     <bcf:option datatype="integer" backendin="mincitenames,minbibnames,minsortnames">minnames</bcf:option>
     <bcf:option datatype="integer" backendout="1">maxbibnames</bcf:option>
@@ -1348,6 +2173,19 @@
         <bcf:map_step map_field_set="shortjournal" map_origfieldval="1"/>
       </bcf:map>
       <bcf:map>
+        <bcf:map_step map_field_source="pubstate" map_match="forthcoming" map_final="1"/>
+        <bcf:map_step map_field_set="year" map_origfieldval="1" map_final="1"/>
+        <bcf:map_step map_field_source="year" map_match="(forthcoming)" map_replace="\\bibstring\{$1\}"/>
+        <bcf:map_step map_field_set="pubstate" map_null="1"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:per_type>article</bcf:per_type>
+        <bcf:per_type>periodical</bcf:per_type>
+        <bcf:per_type>review</bcf:per_type>
+        <bcf:per_type>suppperiodical</bcf:per_type>
+        <bcf:map_step map_field_source="entrysubtype" map_match="newspaper" map_replace="magazine"/>
+      </bcf:map>
+      <bcf:map>
         <bcf:per_type>jurisdiction</bcf:per_type>
         <bcf:per_type>legal</bcf:per_type>
         <bcf:per_type>legislation</bcf:per_type>
@@ -1369,18 +2207,6 @@
         <bcf:map_step map_field_source="entrysubtype" map_match="canada" map_final="1"/>
         <bcf:map_step map_field_source="bookpagination" map_match="section" map_replace="canadasection"/>
         <bcf:map_step map_field_source="pagination" map_match="section" map_replace="canadasection"/>
-      </bcf:map>
-      <bcf:map>
-        <bcf:map_step map_field_source="pubstate" map_match="forthcoming" map_final="1"/>
-        <bcf:map_step map_field_set="year" map_origfieldval="1" map_final="1"/>
-        <bcf:map_step map_field_source="year" map_match="(forthcoming)" map_replace="\\bibstring\{$1\}"/>
-      </bcf:map>
-      <bcf:map>
-        <bcf:per_type>article</bcf:per_type>
-        <bcf:per_type>periodical</bcf:per_type>
-        <bcf:per_type>review</bcf:per_type>
-        <bcf:per_type>suppperiodical</bcf:per_type>
-        <bcf:map_step map_field_source="entrysubtype" map_match="newspaper" map_replace="magazine"/>
       </bcf:map>
       <bcf:map map_overwrite="1">
         <bcf:map_step map_field_source="subtitle" map_final="1"/>
@@ -1606,8 +2432,7 @@
       <bcf:field source="indexsorttitle" skip="true"/>
     </bcf:inherit>
     <bcf:inherit>
-      <bcf:type_pair source="book" target="letter"/>
-      <bcf:type_pair source="collection" target="letter"/>
+      <bcf:type_pair source="book" target="incollection"/>
       <bcf:field source="title" target="booktitle"/>
       <bcf:field source="subtitle" target="booksubtitle"/>
       <bcf:field source="titleaddon" target="booktitleaddon"/>
@@ -1617,7 +2442,8 @@
       <bcf:field source="indexsorttitle" skip="true"/>
     </bcf:inherit>
     <bcf:inherit>
-      <bcf:type_pair source="book" target="incollection"/>
+      <bcf:type_pair source="book" target="letter"/>
+      <bcf:type_pair source="collection" target="letter"/>
       <bcf:field source="title" target="booktitle"/>
       <bcf:field source="subtitle" target="booksubtitle"/>
       <bcf:field source="titleaddon" target="booktitleaddon"/>
@@ -1641,9 +2467,9 @@
       <bcf:type_pair source="*" target="*"/>
       <bcf:field source="namea" skip="true"/>
       <bcf:field source="nameb" skip="true"/>
-      <bcf:field source="nameatype" skip="true"/>
       <bcf:field source="sortyear" skip="true"/>
       <bcf:field source="sortname" skip="true"/>
+      <bcf:field source="sorttitle" skip="true"/>
       <bcf:field source="sorttitle" skip="true"/>
       <bcf:field source="urlyear" skip="true"/>
       <bcf:field source="urlmonth" skip="true"/>
@@ -3041,6 +3867,10 @@
     <bcf:citekey order="4">weed2015</bcf:citekey>
     <bcf:citekey order="5">murray2015</bcf:citekey>
     <bcf:citekey order="6">bradley2016</bcf:citekey>
+    <bcf:citekey order="7">zotero-165</bcf:citekey>
+    <bcf:citekey order="8">bush2001</bcf:citekey>
+    <bcf:citekey order="9">murray2015</bcf:citekey>
+    <bcf:citekey order="10">murray2015</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
@@ -3064,12 +3894,14 @@
       <bcf:sortitem order="11">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">labelyear</bcf:sortitem>
+      <bcf:sortitem order="3">year</bcf:sortitem>
+      <bcf:sortitem order="4">origyear</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="5">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1" pad_side="left" pad_width="4" pad_char="0">volume</bcf:sortitem>

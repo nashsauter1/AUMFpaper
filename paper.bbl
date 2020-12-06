@@ -21,16 +21,18 @@
   \datalist[entry]{cms/global//global/global}
     \entry{bradley2016}{article}{}
       \name{author}{2}{}{%
-        {{hash=97047ef6b1ce6422dddd02c810f6cfbc}{%
+        {{un=0,uniquepart=base,hash=97047ef6b1ce6422dddd02c810f6cfbc}{%
            family={Bradley},
            familyi={B\bibinitperiod},
            given={Curtis\bibnamedelima A.},
-           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=445e8dd4e4dba7aea1a2e52f4b9498a0}{%
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=445e8dd4e4dba7aea1a2e52f4b9498a0}{%
            family={Goldsmith},
            familyi={G\bibinitperiod},
            given={Jack\bibnamedelima Landman},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{0222bbda0b5bf840edbfaa252e553aea}
       \strng{fullhash}{0222bbda0b5bf840edbfaa252e553aea}
@@ -40,7 +42,8 @@
       \strng{authorfullhash}{0222bbda0b5bf840edbfaa252e553aea}
       \field{sortinit}{B}
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
-      \true{uniquework}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1556-5068}
@@ -58,13 +61,83 @@
       \endverb
       \keyw{international law,major,obama}
     \endentry
+    \entry{bush2001}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=adaa62b0dafb0a03b46ef03ef5852c31}{%
+           family={Bush},
+           familyi={B\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Washington Post}%
+      }
+      \strng{namehash}{adaa62b0dafb0a03b46ef03ef5852c31}
+      \strng{fullhash}{adaa62b0dafb0a03b46ef03ef5852c31}
+      \strng{bibnamehash}{adaa62b0dafb0a03b46ef03ef5852c31}
+      \strng{authorbibnamehash}{adaa62b0dafb0a03b46ef03ef5852c31}
+      \strng{authornamehash}{adaa62b0dafb0a03b46ef03ef5852c31}
+      \strng{authorfullhash}{adaa62b0dafb0a03b46ef03ef5852c31}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{9}
+      \field{title}{Bush on {{Security Efforts}}}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/NPVC3T66/bushtext_091201.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.washingtonpost.com/wp-srv/nation/transcripts/bushtext_091201.html
+      \endverb
+      \verb{url}
+      \verb https://www.washingtonpost.com/wp-srv/nation/transcripts/bushtext_091201.html
+      \endverb
+    \endentry
+    \entry{zotero-165}{online}{}
+      \list{organization}{1}{%
+        {GovTrack.us}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A joint resolution to authorize the use of United States Armed Forces against those responsible for the recent attacks launched against the United States.}
+      \field{langid}{english}
+      \field{title}{S.{{J}}.{{Res}}. 23 (107th): {{Authorization}} for {{Use}} of {{Military Force}}}
+      \field{urlday}{6}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/Z238CWEV/sjres23.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.govtrack.us/congress/bills/107/sjres23
+      \endverb
+      \verb{url}
+      \verb https://www.govtrack.us/congress/bills/107/sjres23
+      \endverb
+    \endentry
     \entry{murray2015}{article}{}
       \name{author}{1}{}{%
-        {{hash=7fa63aa5cd1ea5bb2b514e8b1672855b}{%
+        {{un=0,uniquepart=base,hash=7fa63aa5cd1ea5bb2b514e8b1672855b}{%
            family={Murray},
            familyi={M\bibinitperiod},
            given={Shoon\bibnamedelima Kathleen},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{7fa63aa5cd1ea5bb2b514e8b1672855b}
       \strng{fullhash}{7fa63aa5cd1ea5bb2b514e8b1672855b}
@@ -74,7 +147,8 @@
       \strng{authorfullhash}{7fa63aa5cd1ea5bb2b514e8b1672855b}
       \field{sortinit}{M}
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \true{uniquework}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{03604918}
@@ -111,6 +185,8 @@
       \strng{editorafullhash}{f051597232c792e5c2ff26ade3932bc5}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labeltitlesource}{title}
       \field{day}{14}
       \field{editoratype}{collaborator}
@@ -133,11 +209,12 @@
     \endentry
     \entry{starr-deelen2018}{book}{}
       \name{author}{1}{}{%
-        {{hash=3fba03a174f56dea51b5e7d768cbf239}{%
+        {{un=0,uniquepart=base,hash=3fba03a174f56dea51b5e7d768cbf239}{%
            family={Starr-Deelen},
            familyi={S\bibinithyphendelim D\bibinitperiod},
            given={Donna\bibnamedelima G},
-           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{3fba03a174f56dea51b5e7d768cbf239}
       \strng{fullhash}{3fba03a174f56dea51b5e7d768cbf239}
@@ -147,7 +224,8 @@
       \strng{authorfullhash}{3fba03a174f56dea51b5e7d768cbf239}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
-      \true{uniquework}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{OCLC: 1005105327}
@@ -164,11 +242,12 @@
     \endentry
     \entry{weed2015}{article}{}
       \name{author}{1}{}{%
-        {{hash=a86fe4460f1d62474293e0a35993fac9}{%
+        {{un=0,uniquepart=base,hash=a86fe4460f1d62474293e0a35993fac9}{%
            family={Weed},
            familyi={W\bibinitperiod},
            given={Matthew\bibnamedelima C},
-           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{a86fe4460f1d62474293e0a35993fac9}
       \strng{fullhash}{a86fe4460f1d62474293e0a35993fac9}
@@ -178,7 +257,8 @@
       \strng{authorfullhash}{a86fe4460f1d62474293e0a35993fac9}
       \field{sortinit}{W}
       \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
-      \true{uniquework}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In response to the September 11, 2001, terrorist attacks against the United States, Congress enacted the Authorization for Use of Military Force (2001 AUMF; P.L. 107-40; 50 U.S.C. §1541 note) to authorize the use of military force against those who perpetrated or provided support for the attacks. Under the authority of the 2001 AUMF, U.S. Armed Forces have conducted military operations in Afghanistan since October 2001. As armed conflict against Al Qaeda and the Taliban progressed, and U.S. counterterrorism strategy evolved, U.S. use of military force has expanded outside Afghanistan to include Al Qaeda and Taliban targets in Pakistan, Yemen, Somalia, Libya, and most recently, Syria.}

@@ -104,6 +104,45 @@
       \verb https://www.washingtonpost.com/wp-srv/nation/transcripts/bushtext_091201.html
       \endverb
     \endentry
+    \entry{byrd2001a}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc622db33d6bcb94181a69eeb6fa1663}{%
+           family={Byrd},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Congressional Record Vol. 147}%
+      }
+      \strng{namehash}{dc622db33d6bcb94181a69eeb6fa1663}
+      \strng{fullhash}{dc622db33d6bcb94181a69eeb6fa1663}
+      \strng{bibnamehash}{dc622db33d6bcb94181a69eeb6fa1663}
+      \strng{authorbibnamehash}{dc622db33d6bcb94181a69eeb6fa1663}
+      \strng{authornamehash}{dc622db33d6bcb94181a69eeb6fa1663}
+      \strng{authorfullhash}{dc622db33d6bcb94181a69eeb6fa1663}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{10}
+      \field{title}{Use of Force Authority by the {{President}}}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/CYUIZ3BE/CREC-2001-10-01-pt1-PgS9948-2.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.congress.gov/crec/2001/10/01/CREC-2001-10-01.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.congress.gov/crec/2001/10/01/CREC-2001-10-01.pdf
+      \endverb
+    \endentry
     \entry{zotero-165}{online}{}
       \list{organization}{1}{%
         {GovTrack.us}%
@@ -121,7 +160,7 @@
       \field{urlyear}{2020}
       \field{urldateera}{ce}
       \verb{file}
-      \verb /Users/nashsauter/Zotero/storage/Z238CWEV/sjres23.html
+      \verb /Users/nashsauter/Zotero/storage/PQCIDBSB/STATUTE-87-Pg555.pdf;/Users/nashsauter/Zotero/storage/Z238CWEV/sjres23.html
       \endverb
       \verb{urlraw}
       \verb https://www.govtrack.us/congress/bills/107/sjres23
@@ -129,6 +168,32 @@
       \verb{url}
       \verb https://www.govtrack.us/congress/bills/107/sjres23
       \endverb
+    \endentry
+    \entry{zablocki1973}{legislation}{}
+      \name{editora}{1}{}{%
+        {{hash=17c7442688d69aeb38c28d0a3876be21}{%
+           family={Zablocki},
+           familyi={Z\bibinitperiod},
+           given={Clement},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{editorabibnamehash}{17c7442688d69aeb38c28d0a3876be21}
+      \strng{editoranamehash}{17c7442688d69aeb38c28d0a3876be21}
+      \strng{editorafullhash}{17c7442688d69aeb38c28d0a3876be21}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{editoratype}{collaborator}
+      \field{journaltitle}{H.J.Res. 542}
+      \field{month}{5}
+      \field{number}{93-148}
+      \field{shortjournal}{H.J.Res. 542}
+      \field{title}{War {{Powers Resolution}}}
+      \field{year}{1973}
+      \field{dateera}{ce}
     \endentry
     \entry{murray2015}{article}{}
       \name{author}{1}{}{%
@@ -207,6 +272,41 @@
       \verb https://www.govtrack.us/congress/bills/107/sjres23/text
       \endverb
     \endentry
+    \entry{savage2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd8c919a9eb8cd4de40eae13e5d15b47}{%
+           family={Savage},
+           familyi={S\bibinitperiod},
+           given={Malcolm\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd8c919a9eb8cd4de40eae13e5d15b47}
+      \strng{fullhash}{bd8c919a9eb8cd4de40eae13e5d15b47}
+      \strng{bibnamehash}{bd8c919a9eb8cd4de40eae13e5d15b47}
+      \strng{authorbibnamehash}{bd8c919a9eb8cd4de40eae13e5d15b47}
+      \strng{authornamehash}{bd8c919a9eb8cd4de40eae13e5d15b47}
+      \strng{authorfullhash}{bd8c919a9eb8cd4de40eae13e5d15b47}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1556-5068}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{langid}{english}
+      \field{shortjournal}{SSRN Journal}
+      \field{title}{On the {{Necessity}} of {{Repealing}} the 2001 {{Authorization}} for the {{Use}} of {{Military Force}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.2583380
+      \endverb
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/V3VVJ2UP/Savage - 2015 - On the Necessity of Repealing the 2001 Authorizati.pdf
+      \endverb
+    \endentry
     \entry{starr-deelen2018}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3fba03a174f56dea51b5e7d768cbf239}{%
@@ -262,7 +362,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In response to the September 11, 2001, terrorist attacks against the United States, Congress enacted the Authorization for Use of Military Force (2001 AUMF; P.L. 107-40; 50 U.S.C. §1541 note) to authorize the use of military force against those who perpetrated or provided support for the attacks. Under the authority of the 2001 AUMF, U.S. Armed Forces have conducted military operations in Afghanistan since October 2001. As armed conflict against Al Qaeda and the Taliban progressed, and U.S. counterterrorism strategy evolved, U.S. use of military force has expanded outside Afghanistan to include Al Qaeda and Taliban targets in Pakistan, Yemen, Somalia, Libya, and most recently, Syria.}
+      \field{day}{14}
+      \field{journaltitle}{Congressional Research Service}
       \field{langid}{english}
+      \field{month}{4}
       \field{title}{2001 {{Authorization}} for {{Use}} of {{Military Force}}: Issues {{Concerning}} Its Continued Application}
       \field{year}{2015}
       \field{dateera}{ce}

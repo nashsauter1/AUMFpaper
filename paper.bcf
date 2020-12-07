@@ -3871,6 +3871,14 @@
     <bcf:citekey order="8">bush2001</bcf:citekey>
     <bcf:citekey order="9">murray2015</bcf:citekey>
     <bcf:citekey order="10">murray2015</bcf:citekey>
+    <bcf:citekey order="11">savage2015</bcf:citekey>
+    <bcf:citekey order="12">weed2015</bcf:citekey>
+    <bcf:citekey order="13">byrd2001a</bcf:citekey>
+    <bcf:citekey order="14">byrd2001a</bcf:citekey>
+    <bcf:citekey order="15">byrd2001a</bcf:citekey>
+    <bcf:citekey order="16">daschle2001</bcf:citekey>
+    <bcf:citekey order="17">zablocki1973</bcf:citekey>
+    <bcf:citekey order="18">byrd2001a</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

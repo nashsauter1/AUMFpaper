@@ -165,12 +165,8 @@
       \field{day}{12}
       \field{month}{9}
       \field{title}{Bush on {{Security Efforts}}}
-      \field{urlday}{6}
-      \field{urlmonth}{12}
-      \field{urlyear}{2020}
       \field{year}{2001}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{file}
       \verb /Users/nashsauter/Zotero/storage/NPVC3T66/bushtext_091201.html
       \endverb
@@ -220,22 +216,64 @@
       \verb https://www.congress.gov/crec/2001/10/01/CREC-2001-10-01.pdf
       \endverb
     \endentry
+    \entry{fuller2019}{online}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e58e7d669145776f4a67e5e65258ca14}{%
+           family={Fuller},
+           familyi={F\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3e8e03166640c53bb2a9301399bf90f}{%
+           family={Terkel},
+           familyi={T\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {HuffPost}%
+      }
+      \strng{namehash}{1ef8609f5fbff36de48669fcaee88539}
+      \strng{fullhash}{1ef8609f5fbff36de48669fcaee88539}
+      \strng{bibnamehash}{1ef8609f5fbff36de48669fcaee88539}
+      \strng{authorbibnamehash}{1ef8609f5fbff36de48669fcaee88539}
+      \strng{authornamehash}{1ef8609f5fbff36de48669fcaee88539}
+      \strng{authorfullhash}{1ef8609f5fbff36de48669fcaee88539}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{But how hard are Democrats willing to fight to actually prevent war?}
+      \field{day}{19}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{18 {{Years Later}}, {{The House Finally Repeals The President}}'s 9/11 {{War Authority}}}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/L6R3W5GZ/2001-aumf-house-repeal_n_5d0aa028e4b0f7b7442b6c40.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.huffpost.com/entry/2001-aumf-house-repeal_n_5d0aa028e4b0f7b7442b6c40
+      \endverb
+      \verb{url}
+      \verb https://www.huffpost.com/entry/2001-aumf-house-repeal_n_5d0aa028e4b0f7b7442b6c40
+      \endverb
+    \endentry
     \entry{zotero-165}{online}{}
       \list{organization}{1}{%
         {GovTrack.us}%
       }
       \field{sortinit}{G}
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{url}
+      \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{abstract}{A joint resolution to authorize the use of United States Armed Forces against those responsible for the recent attacks launched against the United States.}
       \field{langid}{english}
       \field{title}{S.{{J}}.{{Res}}. 23 (107th): {{Authorization}} for {{Use}} of {{Military Force}}}
-      \field{urlday}{6}
-      \field{urlmonth}{12}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
       \verb{file}
       \verb /Users/nashsauter/Zotero/storage/PQCIDBSB/STATUTE-87-Pg555.pdf;/Users/nashsauter/Zotero/storage/Z238CWEV/sjres23.html
       \endverb
@@ -252,16 +290,11 @@
       }
       \field{sortinit}{G}
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{url}
+      \field{labeldatesource}{nodate}
       \field{labeltitlesource}{title}
       \field{abstract}{Joint resolution concerning the war powers of Congress and the President.}
       \field{langid}{english}
       \field{title}{War {{Powers Resolution}} (1973 - {{H}}.{{J}}.{{Res}}. 542)}
-      \field{urlday}{7}
-      \field{urlmonth}{12}
-      \field{urlyear}{2020}
-      \field{urldateera}{ce}
       \verb{file}
       \verb /Users/nashsauter/Zotero/storage/L64ZC42C/hjres542.html
       \endverb
@@ -339,6 +372,47 @@
       \verb /Users/nashsauter/Zotero/storage/THT3PY8S/Murray - 2015 - The contemporary presidency stretching the 2001 A.pdf
       \endverb
       \keyw{bush,major}
+    \endentry
+    \entry{paul2018}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f0fae6d70fb90810aadb525bbbaf97b6}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Rand},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {The American Conservative}%
+      }
+      \strng{namehash}{f0fae6d70fb90810aadb525bbbaf97b6}
+      \strng{fullhash}{f0fae6d70fb90810aadb525bbbaf97b6}
+      \strng{bibnamehash}{f0fae6d70fb90810aadb525bbbaf97b6}
+      \strng{authorbibnamehash}{f0fae6d70fb90810aadb525bbbaf97b6}
+      \strng{authornamehash}{f0fae6d70fb90810aadb525bbbaf97b6}
+      \strng{authorfullhash}{f0fae6d70fb90810aadb525bbbaf97b6}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In a TAC exclusive, the Kentucky senator warns the new AUMF is a massive abdication by the legislative branch.}
+      \field{day}{7}
+      \field{langid}{american}
+      \field{month}{5}
+      \field{title}{Congress {{Moves}} to {{Give}} the {{President Unlimited War Powers}}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/8I27KI47/rand-paul-congress-moves-to-give-the-president-unlimited-war-powers.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.theamericanconservative.com/articles/rand-paul-congress-moves-to-give-the-president-unlimited-war-powers/
+      \endverb
+      \verb{url}
+      \verb https://www.theamericanconservative.com/articles/rand-paul-congress-moves-to-give-the-president-unlimited-war-powers/
+      \endverb
     \endentry
     \entry{daschle2001}{legislation}{}
       \name{editora}{1}{}{%

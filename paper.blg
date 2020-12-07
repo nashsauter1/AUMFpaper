@@ -1,18 +1,18 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'paper.blg'
-[80] biber-darwin:322> INFO - === Mon Dec  7, 2020, 05:19:36
-[108] Biber.pm:415> INFO - Reading 'paper.bcf'
-[296] Biber.pm:943> INFO - Found 14 citekeys in bib section 0
-[313] Biber.pm:4256> INFO - Processing section 0
-[313] Utils.pm:75> INFO - Globbing data source 'aumf.bib'
-[313] Utils.pm:91> INFO - Globbed data source 'aumf.bib' to aumf.bib
-[327] Biber.pm:4455> INFO - Looking for bibtex format file 'aumf.bib' for section 0
-[330] bibtex.pm:1653> INFO - LaTeX decoding ...
-[365] bibtex.pm:1471> INFO - Found BibTeX data source 'aumf.bib'
-[490] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[490] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[490] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[490] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[490] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
-[513] bbl.pm:652> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
-[520] bbl.pm:755> INFO - Output to paper.bbl
+[85] biber-darwin:322> INFO - === Mon Dec  7, 2020, 13:07:35
+[111] Biber.pm:415> INFO - Reading 'paper.bcf'
+[274] Biber.pm:943> INFO - Found 16 citekeys in bib section 0
+[290] Biber.pm:4256> INFO - Processing section 0
+[291] Utils.pm:75> INFO - Globbing data source 'aumf.bib'
+[291] Utils.pm:91> INFO - Globbed data source 'aumf.bib' to aumf.bib
+[306] Biber.pm:4455> INFO - Looking for bibtex format file 'aumf.bib' for section 0
+[309] bibtex.pm:1653> INFO - LaTeX decoding ...
+[345] bibtex.pm:1471> INFO - Found BibTeX data source 'aumf.bib'
+[472] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[472] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[472] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[472] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[473] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[496] bbl.pm:652> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
+[504] bbl.pm:755> INFO - Output to paper.bbl

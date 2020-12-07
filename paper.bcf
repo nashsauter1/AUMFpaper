@@ -3899,6 +3899,8 @@
     <bcf:citekey order="36">brill2010</bcf:citekey>
     <bcf:citekey order="37">starr-deelen2018</bcf:citekey>
     <bcf:citekey order="38">sterio2018</bcf:citekey>
+    <bcf:citekey order="39">fuller2019</bcf:citekey>
+    <bcf:citekey order="40">paul2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

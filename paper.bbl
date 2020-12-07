@@ -19,6 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
+    \entry{boyle2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62292e5d4f5dd0360fb62b4b320cd39b}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62292e5d4f5dd0360fb62b4b320cd39b}
+      \strng{fullhash}{62292e5d4f5dd0360fb62b4b320cd39b}
+      \strng{bibnamehash}{62292e5d4f5dd0360fb62b4b320cd39b}
+      \strng{authorbibnamehash}{62292e5d4f5dd0360fb62b4b320cd39b}
+      \strng{authornamehash}{62292e5d4f5dd0360fb62b4b320cd39b}
+      \strng{authorfullhash}{62292e5d4f5dd0360fb62b4b320cd39b}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{issn}{1364-2987, 1744-053X}
+      \field{journaltitle}{The International Journal of Human Rights}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{The International Journal of Human Rights}
+      \field{title}{The Legal and Ethical Implications of Drone Warfare}
+      \field{volume}{19}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{105\bibrangedash 126}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/13642987.2014.991210
+      \endverb
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/EQF7ZXA9/Boyle - 2015 - The legal and ethical implications of drone warfar.pdf
+      \endverb
+    \endentry
     \entry{bradley2016}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=97047ef6b1ce6422dddd02c810f6cfbc}{%
@@ -60,6 +101,42 @@
       \verb /Users/nashsauter/Zotero/storage/W3YHT6JU/Bradley and Goldsmith - 2016 - Obama's AUMF Legacy.pdf
       \endverb
       \keyw{international law,major,obama}
+    \endentry
+    \entry{brill2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fedd774900004f9d6042a9d64cc7bcb5}{%
+           family={Brill},
+           familyi={B\bibinitperiod},
+           given={Sophia\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fedd774900004f9d6042a9d64cc7bcb5}
+      \strng{fullhash}{fedd774900004f9d6042a9d64cc7bcb5}
+      \strng{bibnamehash}{fedd774900004f9d6042a9d64cc7bcb5}
+      \strng{authorbibnamehash}{fedd774900004f9d6042a9d64cc7bcb5}
+      \strng{authornamehash}{fedd774900004f9d6042a9d64cc7bcb5}
+      \strng{authorfullhash}{fedd774900004f9d6042a9d64cc7bcb5}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1556-5068}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{langid}{english}
+      \field{shortjournal}{SSRN Journal}
+      \field{shorttitle}{Of Loaded Weapons and the Aumf}
+      \field{title}{Of Loaded Weapons and the Aumf: The Case for a Provisional Approach to the {{Guantanamo}} Habeas Suits}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.1621094
+      \endverb
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/6RKSV7J6/Brill - 2010 - Of loaded weapons and the aumf the case for a pro.pdf;/Users/nashsauter/Zotero/storage/Z2F3HH5B/Brill - 2010 - Of loaded weapons and the aumf the case for a pro_annotated.pdf
+      \endverb
     \endentry
     \entry{bush2001}{online}{}
       \name{author}{1}{}{%
@@ -167,6 +244,32 @@
       \endverb
       \verb{url}
       \verb https://www.govtrack.us/congress/bills/107/sjres23
+      \endverb
+    \endentry
+    \entry{zotero-176}{online}{}
+      \list{organization}{1}{%
+        {GovTrack.us}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Joint resolution concerning the war powers of Congress and the President.}
+      \field{langid}{english}
+      \field{title}{War {{Powers Resolution}} (1973 - {{H}}.{{J}}.{{Res}}. 542)}
+      \field{urlday}{7}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/L64ZC42C/hjres542.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.govtrack.us/congress/bills/93/hjres542
+      \endverb
+      \verb{url}
+      \verb https://www.govtrack.us/congress/bills/93/hjres542
       \endverb
     \endentry
     \entry{zablocki1973}{legislation}{}
@@ -339,6 +442,48 @@
       \verb /Users/nashsauter/Zotero/storage/IUYLNQ5L/Starr-Deelen - 2018 - Counter-terrorism from the Obama administration to.pdf
       \endverb
       \keyw{legal,major,obama,trump}
+    \endentry
+    \entry{sterio2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a0dda55c457cc92371df4d2055a78f9a}{%
+           family={Sterio},
+           familyi={S\bibinitperiod},
+           given={Milena},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Independent Institute}%
+      }
+      \strng{namehash}{a0dda55c457cc92371df4d2055a78f9a}
+      \strng{fullhash}{a0dda55c457cc92371df4d2055a78f9a}
+      \strng{bibnamehash}{a0dda55c457cc92371df4d2055a78f9a}
+      \strng{authorbibnamehash}{a0dda55c457cc92371df4d2055a78f9a}
+      \strng{authornamehash}{a0dda55c457cc92371df4d2055a78f9a}
+      \strng{authorfullhash}{a0dda55c457cc92371df4d2055a78f9a}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{10861653, 21693420}
+      \field{journaltitle}{The Independent Review}
+      \field{number}{1}
+      \field{title}{Lethal Use of Drones: When the Executive Is the Judge, Jury, and Executioner}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{35\bibrangedash 50}
+      \range{pages}{16}
+      \verb{eprint}
+      \verb 26591798
+      \endverb
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/EIL3JL22/Sterio - 2018 - Lethal Use of Drones When the Executive Is the Ju.pdf
+      \endverb
+      \keyw{trump}
     \endentry
     \entry{weed2015}{article}{}
       \name{author}{1}{}{%

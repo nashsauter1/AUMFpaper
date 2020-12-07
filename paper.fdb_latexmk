@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber paper"] 1607320252 "paper.bcf" "paper.bbl" "paper" 1607320263
-  "aumf.bib" 1607319768 9949 7fc2e48a2a650012227722f0927e94e7 ""
-  "paper.bcf" 1607320262 161666 c371747f9692bb387ba2cddcfe1cdaac "pdflatex"
+["biber paper"] 1607343574 "paper.bcf" "paper.bbl" "paper" 1607343905
+  "aumf.bib" 1607320511 10346 089408cce402c0698600c17fc2d5954d ""
+  "paper.bcf" 1607343905 162757 06a52fb3fb2c94173377dc260f4ac6b8 "pdflatex"
   (generated)
-  "paper.blg"
   "paper.bbl"
-["pdflatex"] 1607320261 "paper.tex" "paper.pdf" "paper" 1607320263
+  "paper.blg"
+["pdflatex"] 1607343903 "paper.tex" "paper.pdf" "paper" 1607343905
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_ctw2ju.enc" 1576187832 3273 2aff4b6bc29b65b8c6d853fea5d027fd ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_k54atz.enc" 1576187832 3127 55698867f18ea6e28e96edb4579db7fa ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_usix3v.enc" 1576187832 3107 f6bea6cb8c68940eb972e1222caa6b17 ""
@@ -110,15 +110,15 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "paper.aux" 1607320262 3409 41f5c720cee7c7a10fa019fbdbda96c6 "pdflatex"
-  "paper.bbl" 1607320253 15730 2cb5a78d7d05c1f87efa8fa3f550088c "biber paper"
-  "paper.out" 1607320262 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "paper.run.xml" 1607320262 2408 d025f8d4bc4012320d19373f4a063862 "pdflatex"
-  "paper.tex" 1607320259 21108 7cce935892783c4e5bfc910f7c72583b ""
+  "paper.aux" 1607343905 5434 693bc2ba457949defaf3b286628156b1 "pdflatex"
+  "paper.bbl" 1607343577 21611 467931743387ace5badaff7c4fd9a93b "biber paper"
+  "paper.out" 1607343904 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "paper.run.xml" 1607343905 2408 d025f8d4bc4012320d19373f4a063862 "pdflatex"
+  "paper.tex" 1607343902 38855 c6085fc39a44ce46133f668e81e267d8 ""
   (generated)
-  "paper.out"
   "paper.bcf"
   "paper.aux"
-  "paper.pdf"
   "paper.log"
   "paper.run.xml"
+  "paper.pdf"
+  "paper.out"
